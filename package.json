@@ -1,0 +1,16 @@
+{
+  "name": "reactthreefiber",
+  "version": "1.0.0",
+  "description": "playing with react three fiber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deirdre",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/fiber": "^8.13.0",
+    "@types/three": "^0.152.0",
+    "three": "^0.152.2"
+  }
+}
